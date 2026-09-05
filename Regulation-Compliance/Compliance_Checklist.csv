@@ -1,0 +1,13 @@
+Requirement,Compliance Action,Status,Priority
+Lawful Processing,Identify and document the legal basis for processing,Planned,High
+Data Minimisation,Collect only necessary student information,Planned,High
+Purpose Limitation,Use data only for defined educational purposes,Planned,High
+Transparency,Provide a clear privacy notice to students,Planned,High
+Data Accuracy,Provide a process for correcting incorrect information,Planned,Medium
+Data Security,Use encryption and secure authentication,Planned,High
+Access Control,Implement role-based access control,Planned,High
+Data Retention,Define retention and secure deletion periods,Planned,High
+Breach Management,Create a procedure for detecting and responding to breaches,Planned,High
+Third-Party Management,Review privacy and security requirements of vendors,Planned,Medium
+Staff Training,Train staff on data protection responsibilities,Planned,Medium
+Compliance Auditing,Conduct periodic privacy and security audits,Planned,Medium
