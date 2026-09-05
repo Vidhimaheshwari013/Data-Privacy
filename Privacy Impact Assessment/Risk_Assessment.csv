@@ -1,0 +1,11 @@
+Risk ID,Risk,Likelihood,Impact,Risk Score,Risk Level,Mitigation
+R1,Unauthorized access to biometric data,3,5,15,High,Encryption and role-based access
+R2,Data breach or leakage,3,5,15,High,Encryption and security monitoring
+R3,Incorrect facial recognition,4,4,16,High,Manual verification and correction
+R4,Use of biometric data for other purposes,3,5,15,High,Purpose limitation
+R5,Excessive data retention,3,4,12,High,Retention schedule and secure deletion
+R6,Students not properly informed,3,4,12,High,Clear privacy notice
+R7,Excessive administrator access,2,4,8,Medium,Role-based permissions
+R8,False matching or identity confusion,3,4,12,High,Accuracy testing and manual review
+R9,No alternative attendance method,3,3,9,Medium,Provide alternative method
+R10,Third-party or vendor access,2,5,10,High,Contractual privacy controls
